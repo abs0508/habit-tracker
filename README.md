@@ -10,3 +10,8 @@
 - api-plan.md - план api
 
 Что планирую использовать: Python (FastAPI), PostgreSQL, Docker
+
+## Git
+
+Ветки: main, feature/habits-api, feature/checkins, docs/readme-update.
+Все три ветки слиты в main. При слиянии feature/checkins был конфликт в README, описание в git-conflict.md
