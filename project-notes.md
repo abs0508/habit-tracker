@@ -10,3 +10,8 @@
 Этот же проект дальше буду использовать в Linux, Docker, Docker Compose и т.д.
 
 Поля у привычки: id, title, description, frequency (daily/weekly), created_at
+
+Дальше по этапам:
+- Linux - разобраться с правами, процессами, написать скрипт для запуска
+- Docker - сделать Dockerfile для api
+- Docker Compose - поднять api + postgres вместе
