@@ -8,6 +8,7 @@
 - README.md - описание
 - project-notes.md - заметки
 - api-plan.md - план api
+- git-conflict.md - про конфликт при слиянии
 
 Что планирую использовать: Python (FastAPI), PostgreSQL, Docker
 
