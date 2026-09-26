@@ -8,3 +8,5 @@
 - отметка (какая привычка и за какой день выполнена)
 
 Этот же проект дальше буду использовать в Linux, Docker, Docker Compose и т.д.
+
+Поля у привычки: id, title, description, frequency (daily/weekly), created_at
