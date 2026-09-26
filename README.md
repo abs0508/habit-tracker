@@ -6,3 +6,5 @@
 
 Файлы:
 - README.md - описание
+- project-notes.md - заметки
+- api-plan.md - план api
