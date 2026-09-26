@@ -10,3 +10,9 @@
 - GET /habits/{id} - одна привычка
 - PATCH /habits/{id} - изменить
 - DELETE /habits/{id} - удалить
+
+Отметки:
+- POST /habits/{id}/checkins - отметить что сделал
+- GET /habits/{id}/checkins - история
+- DELETE /habits/{id}/checkins/{date} - убрать отметку
+- GET /habits/{id}/stats - статистика (серия дней, процент)
